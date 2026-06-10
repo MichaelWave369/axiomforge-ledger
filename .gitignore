@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+data/ledger.db
+data/artifacts/*.png
+.env
