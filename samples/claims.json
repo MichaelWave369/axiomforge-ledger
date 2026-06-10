@@ -1,0 +1,11 @@
+{
+  "claims": [
+    {"text": "The sum of two even integers is even.", "why_included": "formalizable theorem candidate"},
+    {"text": "All prime numbers are odd.", "why_included": "classic false universal; p=2 counterexample"},
+    {"text": "E = m * c^2, where E is energy in joules, m is mass in kg, and c is the speed of light in m/s.", "why_included": "physics claim; units pass but not proof"},
+    {"text": "F = m * v, where F is force in N, m is mass in kg, and v is velocity in m/s.", "why_included": "dimensionally wrong physics"},
+    {"text": "In an information network with noisy copying, entropy of node states drifts upward over time as noise accumulates.", "why_included": "simulation candidate"},
+    {"text": "Systems that maintain constraint coherence degrade more slowly than unconstrained systems under identical random perturbation.", "why_included": "simulation candidate"},
+    {"text": "Consciousness is a standing wave of universal resonance.", "why_included": "metaphor; not formalizable"}
+  ]
+}
