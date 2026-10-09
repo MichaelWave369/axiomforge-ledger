@@ -5,3 +5,5 @@ __pycache__/
 data/ledger.db
 data/artifacts/*.png
 .env
+web/node_modules/
+web/dist/
